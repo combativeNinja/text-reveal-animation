@@ -1,0 +1,1 @@
+Code block for the animation of text reveal can be used in revealing headings.
